@@ -15,7 +15,7 @@ import statsmodels.api as sm
 import statsmodels.formula.api as smf
  
 df = pd.read_csv("C:/Users/info/Downloads/Supermarket_Sales_Business_Analytics.csv", parse_dates=["Date"])
- 
+ sa
 # 1. EDA
 print(df.head())
 print(df.tail())
